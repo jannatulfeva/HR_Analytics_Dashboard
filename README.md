@@ -64,7 +64,7 @@ Attrition Analysis by:
 
 # Dashboard Preview
 
-Add your dashboard screenshot here after uploading it to GitHub
+<img width="1174" height="680" alt="Screenshot 2026-03-18 005926" src="https://github.com/user-attachments/assets/878d54c9-3c40-446f-880f-663466518642" />
 
 # How to Use
 
@@ -78,7 +78,12 @@ Add your dashboard screenshot here after uploading it to GitHub
 
 HR Analytics Dataset
 
-#
+# Author & Contact
+Jannatul Ferdaus Eva
+
+Data Analyst
+
+📧 Email: jannateva76@gmail.com
 
 
 
